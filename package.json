@@ -201,6 +201,6 @@
     "util": "^0.12.4"
   },
   "optionalDependencies": {
-    "cypress": "8.7.0"
+    "cypress": "13.6.1"
   }
 }
